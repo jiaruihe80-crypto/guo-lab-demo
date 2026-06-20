@@ -1,0 +1,30 @@
+---
+permalink: /
+title: "个人简介"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+郭开喆，东南大学青年首席教授、博士生导师、国家青年高层次人才。目前研究方向为用于 6G 高速通信的毫米波和太赫兹 CMOS 集成电路设计。
+
+郭开喆于 2010 年本科毕业于吉林大学物理学院，2013 年硕士毕业于电子科技大学电子工程学院，2020 年博士毕业于比利时鲁汶大学电气工程学院 MICAS 实验室。2021 年至 2023 年，他在香港城市大学太赫兹和毫米波国家重点实验室从事博士后研究。2023 年加入东南大学和紫金山实验室。
+
+## 研究方向
+
+- 用于高速通信的毫米波和太赫兹 CMOS 相控阵与收发机
+- 毫米波和太赫兹 CMOS 电路模块
+- 面向 6G 高速通信系统的高频集成电路设计
+
+## 学术成果
+
+郭开喆曾获 2019 年 IEEE 集成电路协会博士生成就奖。以第一作者或通信作者发表 1 篇 ISSCC（芯片设计奥林匹克）、2 篇 IEEE Journal of Solid-State Circuits（芯片设计领域最重要期刊）、2 篇 IEEE Transactions on Circuits and Systems I、3 篇 IEEE Transactions on Terahertz Science and Technology、2 篇 IEEE Transactions on Microwave Theory and Techniques。
+
+## 团队
+
+所在团队为由尤肖虎院士和赵涤燹教授领导的毫米波和太赫兹集成电路设计团队。正在进行的研究内容包括用于高速通信的毫米波/太赫兹 CMOS 相控阵和收发机，以及毫米波/太赫兹 CMOS 电路模块。学生流片机会很多。
+
+## 招生与合作
+
+欢迎有志于做好集成电路设计的同学报名。团队会根据学生个人的学习兴趣和职业规划安排、调整科研方向和培养方式，不卡毕业，不阻拦学生出国深造。除学校补助以外，一般硕士补助 2000-3000 元/月，博士补助 4000-6000 元/月。有关招生与合作，可通过邮箱 kaizhe.guo@seu.edu.cn 或微信 fancy_park 联系。
