@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Kaizhe Guo profile placeholder">
+  <rect width="512" height="512" rx="96" fill="#1f2937"/>
+  <circle cx="256" cy="210" r="104" fill="#d1d5db"/>
+  <path d="M96 468c24-96 88-148 160-148s136 52 160 148" fill="#d1d5db"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">KG</text>
+</svg>

@@ -1,35 +1,28 @@
-# Ignore the contents of the _site directory and other cache directories
 _site/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
 
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
 Gemfile.lock
-
-# Ignore files created by npm
-node_modules
+node_modules/
 package-lock.json
-
-# Ignore the vendor file at root level and bundle for alternative installation
-/vendor/
+vendor/
 .bundle/
+local/
+tmp/
+log/
 
-# Local Codex/session files and imported template archives
 .agents/
 .codex/
-__academicpages_template.zip
-__academicpages_unzip/
-__custom_backup/
-
-# Source intake document; page content is published in Markdown instead
-郭开喆.docx
-
-# Ignore folders related to IDEs
 .vscode/
 
-# Ignore files created by MacOS
+__academicpages_template.zip
+__academicpages_unzip/
+__acad_homepage_template.zip
+__acad_homepage_unzip/
+__custom_backup/
+
+郭开喆.docx
+
 .DS_Store
+Thumbs.db

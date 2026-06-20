@@ -1,13 +1,18 @@
 main:
-  - title: "个人简介"
-    url: /
+  - title: "简介"
+    url: "/#about-me"
+
   - title: "研究方向"
-    url: /research/
-  - title: "招生信息"
-    url: /admissions/
-  - title: "论文发表"
-    url: /publications/
+    url: "/#research"
+
+  - title: "招生"
+    url: "/#admissions"
+
+  - title: "代表论文"
+    url: "/#publications"
+
   - title: "履历"
-    url: /cv/
+    url: "/#experience"
+
   - title: "联系"
-    url: /contact/
+    url: "/#contact"

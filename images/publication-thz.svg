@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="THz CMOS chip illustration">
+  <rect width="800" height="500" fill="#f8fafc"/>
+  <rect x="150" y="95" width="500" height="310" rx="28" fill="#111827"/>
+  <rect x="205" y="145" width="390" height="210" rx="18" fill="#334155"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="10" stroke-linecap="round">
+    <path d="M245 250c40-70 90-70 130 0s90 70 130 0"/>
+    <path d="M245 205c40-70 90-70 130 0s90 70 130 0" opacity=".55"/>
+    <path d="M245 295c40-70 90-70 130 0s90 70 130 0" opacity=".55"/>
+  </g>
+  <g fill="#94a3b8">
+    <rect x="104" y="145" width="40" height="18" rx="4"/>
+    <rect x="104" y="205" width="40" height="18" rx="4"/>
+    <rect x="104" y="265" width="40" height="18" rx="4"/>
+    <rect x="104" y="325" width="40" height="18" rx="4"/>
+    <rect x="656" y="145" width="40" height="18" rx="4"/>
+    <rect x="656" y="205" width="40" height="18" rx="4"/>
+    <rect x="656" y="265" width="40" height="18" rx="4"/>
+    <rect x="656" y="325" width="40" height="18" rx="4"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">THz CMOS Integrated Circuits</text>
+</svg>

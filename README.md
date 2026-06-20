@@ -1,32 +1,21 @@
-# 郭开喆个人学术主页
+# 郭开喆个人主页
 
-这是基于 `academicpages/academicpages.github.io` 组织的 Jekyll 个人主页，用于后续部署到 GitHub Pages。
+这是基于 [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) 重构的一页式 Jekyll 学术主页。
 
-## 内容结构
+## 页面结构
 
-- `_config.yml`：站点和作者信息
-- `_data/navigation.yml`：顶部导航
-- `_pages/about.md`：个人简介
-- `_pages/research.md`：研究方向
-- `_pages/publications.md`：论文发表
-- `_pages/cv.md`：履历
-- `_pages/contact.md`：联系信息
+- `_pages/about.md`：主页正文，包含简介、研究方向、招生信息、代表论文、获奖、履历、教育经历和联系方式。
+- `_config.yml`：站点标题、GitHub Pages 路径、作者侧栏信息。
+- `_data/navigation.yml`：顶部导航锚点。
+- `images/profile.svg`：临时头像占位图，可后续替换为正式照片。
 
-## academicpages 结构
+## GitHub Pages
 
-项目按 `academicpages/academicpages.github.io` 的 Jekyll 结构组织：`_config.yml` 管理站点与作者信息，`_data/navigation.yml` 管理导航，主要页面放在 `_pages/` 中。首页由 `_pages/about.md` 的 `permalink: /` 提供。
+当前配置面向项目页部署：
 
-## 本地预览
+- URL: `https://jiaruihe80-crypto.github.io/guo-lab-demo/`
+- Repository: `jiaruihe80-crypto/guo-lab-demo`
 
-安装 Ruby 和 Bundler 后运行：
+在 GitHub 仓库中启用：
 
-```bash
-bundle install
-bundle exec jekyll serve --host 127.0.0.1 --port 4000
-```
-
-然后访问 `http://127.0.0.1:4000`。
-
-## GitHub Pages 部署
-
-后续注册 GitHub 账号后，可创建一个新的仓库，将本项目推送上去，并在仓库 Settings -> Pages 中启用 GitHub Pages。此项目使用 `github-pages` 和 `jekyll-remote-theme`，适合直接部署为 GitHub Pages 站点。
+`Settings -> Pages -> Build and deployment -> Deploy from a branch -> main / root`
