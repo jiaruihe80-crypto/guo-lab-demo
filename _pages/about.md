@@ -42,15 +42,13 @@ redirect_from:
 
 # 代表论文
 
-## 2026
+- **K. Guo** and P. Reynaert, "29.2 A 0.59THz beam-steerable coherent radiator array with 1mW radiated power and 24.1dBm EIRP in 40nm CMOS," Proc. IEEE Int. Solid-State Circuits Conf. (ISSCC), pp. 442-444, Feb. 2020. [[Paper]](https://doi.org/10.1109/ISSCC19947.2020.9063139) （**芯片设计奥林匹克** <span style="color:#b42318; font-weight:700;">IEEE ISSCC</span>）
+  
+- **K. Guo** and C. H. Chan, "A 0.68-THz receiver with third-order subharmonic mixing in 65-nm CMOS," IEEE J. Solid-State Circuits, vol. 59, no. 8, pp. 2469-2480, Aug. 2024. [[Paper]](https://doi.org/10.1109/JSSC.2024.3371162) （**芯片设计领域最重要期刊** <span style="color:#b42318; font-weight:700;">IEEE JSSC</span>）
+
+- **K. Guo**, Y. Zhang, and P. Reynaert, "A 0.53-THz subharmonic inSjection-locked phased array with 63-uW radiated power in 40-nm CMOS," IEEE J. Solid-State Circuits, vol. 54, no. 2, pp. 380-391, Feb. 2019. [[Paper]](https://doi.org/10.1109/JSSC.2018.2877203) （**芯片设计领域最重要期刊** <span style="color:#b42318; font-weight:700;">IEEE JSSC</span>）
 
 - H. Deng, H. Yan, Y. Wang, **K. Guo**, and D. Zhao, "A 505-613 GHz radiating source with 65 GHz 3-dB EIRP bandwidth in 65-nm CMOS technology," IEEE Trans. Circuits Syst. II: Express Briefs, pp. 1-1, 2026. [[Paper]](https://doi.org/10.1109/TCSII.2026.3704610)
-
-## Selected Publications
-
-**K. Guo** and C. H. Chan, "A 0.68-THz receiver with third-order subharmonic mixing in 65-nm CMOS," IEEE J. Solid-State Circuits, vol. 59, no. 8, pp. 2469-2480, Aug. 2024. [[Paper]](https://doi.org/10.1109/JSSC.2024.3371162)
-
-- 代表性太赫兹 CMOS 接收机工作，发表于芯片设计领域重要期刊 IEEE JSSC。
 
 - H. Guo, **K. Guo**, Z. Lin, K. M. Shum, K. F. Chan, and C. H. Chan, "A 460-GHz receiver using second-order subharmonic mixer in 65-nm CMOS," IEEE Trans. Microw. Theory Techn., vol. 73, no. 4, pp. 2440-2452, Apr. 2025. [[Paper]](https://doi.org/10.1109/TMTT.2024.3471676)
 
@@ -61,10 +59,6 @@ redirect_from:
 - **K. Guo**, C. H. Chan, and D. Zhao, "Analysis and design of a 0.3-THz signal generator using an oscillator-doubler architecture in 40-nm CMOS," IEEE Trans. Circuits Syst. I: Regular Papers, vol. 69, no. 6, pp. 2284-2296, Jun. 2022. [[Paper]](https://doi.org/10.1109/TCSI.2022.3152050)
 
 - D. Simic, **K. Guo**, and P. Reynaert, "A 420-GHz sub-5-um range resolution TX-RX phase imaging system in 40-nm CMOS technology," IEEE J. Solid-State Circuits, vol. 56, no. 12, pp. 3827-3839, Dec. 2021. [[Paper]](https://doi.org/10.1109/JSSC.2021.3111152)
-
-- **K. Guo** and P. Reynaert, "29.2 A 0.59THz beam-steerable coherent radiator array with 1mW radiated power and 24.1dBm EIRP in 40nm CMOS," Proc. IEEE Int. Solid-State Circuits Conf. (ISSCC), pp. 442-444, Feb. 2020. [[Paper]](https://doi.org/10.1109/ISSCC19947.2020.9063139)
-
-- **K. Guo**, Y. Zhang, and P. Reynaert, "A 0.53-THz subharmonic injection-locked phased array with 63-uW radiated power in 40-nm CMOS," IEEE J. Solid-State Circuits, vol. 54, no. 2, pp. 380-391, Feb. 2019. [[Paper]](https://doi.org/10.1109/JSSC.2018.2877203)
 
 <span class='anchor' id='honors'></span>
 
