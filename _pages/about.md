@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郭开喆，东南大学青年首席教授、博士生导师、国家青年高层次人才。目前研究方向为用于 6G 高速通信的毫米波和太赫兹 CMOS 集成电路设计。
+郭开喆，东南大学**青年首席教授**、博士生导师、国家青年高层次人才。
 
 郭开喆于 2010 年本科毕业于吉林大学物理学院，2013 年硕士毕业于电子科技大学电子工程学院，2020 年博士毕业于比利时鲁汶大学电气工程学院 MICAS 实验室。2021 年至 2023 年，他在香港城市大学太赫兹和毫米波国家重点实验室从事博士后研究。2023 年加入东南大学和紫金山实验室。
 
-他曾获 2019 年 IEEE 集成电路协会博士生成就奖。以第一作者或通信作者在 ISSCC、IEEE Journal of Solid-State Circuits、IEEE Transactions on Circuits and Systems I、IEEE Transactions on Terahertz Science and Technology、IEEE Transactions on Microwave Theory and Techniques 等芯片设计和高频电路领域重要会议与期刊发表论文。
+他曾获 2019 年 **IEEE 集成电路协会博士生成就奖**。以第一作者或通信作者在 **ISSCC**、**IEEE Journal of Solid-State Circuits**、**IEEE Transactions on Circuits and Systems I**、**IEEE Transactions on Terahertz Science and Technology** 等芯片设计和高频电路领域重要会议与期刊发表论文。
 
 <span class='anchor' id='research'></span>
 
@@ -42,22 +42,15 @@ redirect_from:
 
 # 代表论文
 
-论文列表由 DBLP、Crossref 和 IEEE DOI 信息整理，以下仅列 2026 已确认论文和部分代表性论文。列表中的 **K. Guo** 为郭开喆。
-
 ## 2026
 
 - H. Deng, H. Yan, Y. Wang, **K. Guo**, and D. Zhao, "A 505-613 GHz radiating source with 65 GHz 3-dB EIRP bandwidth in 65-nm CMOS technology," IEEE Trans. Circuits Syst. II: Express Briefs, pp. 1-1, 2026. [[Paper]](https://doi.org/10.1109/TCSII.2026.3704610)
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSSC 2024</div><img src='{{ "/images/publication-thz.svg" | relative_url }}' alt="THz receiver" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **K. Guo** and C. H. Chan, "A 0.68-THz receiver with third-order subharmonic mixing in 65-nm CMOS," IEEE J. Solid-State Circuits, vol. 59, no. 8, pp. 2469-2480, Aug. 2024. [[Paper]](https://doi.org/10.1109/JSSC.2024.3371162)
 
 - 代表性太赫兹 CMOS 接收机工作，发表于芯片设计领域重要期刊 IEEE JSSC。
-</div>
-</div>
 
 - H. Guo, **K. Guo**, Z. Lin, K. M. Shum, K. F. Chan, and C. H. Chan, "A 460-GHz receiver using second-order subharmonic mixer in 65-nm CMOS," IEEE Trans. Microw. Theory Techn., vol. 73, no. 4, pp. 2440-2452, Apr. 2025. [[Paper]](https://doi.org/10.1109/TMTT.2024.3471676)
 
@@ -104,4 +97,3 @@ redirect_from:
 - 邮箱：[kaizhe.guo@seu.edu.cn](mailto:kaizhe.guo@seu.edu.cn)
 - 微信：fancy_park
 - ORCID：[0000-0001-6509-3541](https://orcid.org/0000-0001-6509-3541)
-- DBLP：[Kaizhe Guo](https://dblp.org/pid/212/6768.html)
