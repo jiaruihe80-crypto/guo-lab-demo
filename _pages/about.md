@@ -79,7 +79,7 @@ redirect_from:
 
 - *2020 年*，比利时鲁汶大学电气工程学院 MICAS 实验室，博士。
 - *2013 年*，电子科技大学电子工程学院，硕士。
-- *2010 年*，吉林大学物理学院，本科。
+- *2010 年*，吉林大学物理学院，学士。
 
 <span class='anchor' id='contact'></span>
 
@@ -88,6 +88,5 @@ redirect_from:
 - 单位：东南大学 / 紫金山实验室
 - 地点：南京，中国
 - 邮箱：[kaizhe.guo@seu.edu.cn](mailto:kaizhe.guo@seu.edu.cn)
-- 微信：fancy_park
 - 微信：fancy_park
 - ORCID：[0000-0001-6509-3541](https://orcid.org/0000-0001-6509-3541)
