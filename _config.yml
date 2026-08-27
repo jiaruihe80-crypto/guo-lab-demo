@@ -1,7 +1,7 @@
 # Site Settings
 locale: "zh-CN"
 title: "郭开喆"
-description: "郭开喆，东南大学青年首席教授、博士生导师，研究方向为用于 6G 高速通信的毫米波和太赫兹 CMOS 集成电路设计。"
+description: "郭开喆，东南大学青年首席教授、博士生导师，研究方向为用于 6G 高速通信和感知的射频 CMOS 集成电路设计。"
 url: "https://jiaruihe80-crypto.github.io"
 baseurl: "/guo-lab-demo"
 repository: "jiaruihe80-crypto/guo-lab-demo"
