@@ -44,8 +44,8 @@ redirect_from:
 
 # 代表论文
 - H. Deng, H. Yan, Y. Wang, **K. Guo**, and D. Zhao, "A 505–613 GHz radiating source with 65 GHz 3-dB EIRP bandwidth in 65-nm CMOS technology," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 73, no. 8, 2026. (<span style="color:#b42318; font-weight:700;">IEEE TCAS-II</span>)
-- 
-- - H. Jing, Z. Shen, D. Zhao, and **K. Guo**, "CMOS programmable metachip for terahertz multifunctional sensing," Appl. Phys. Lett., vol. 129, Art. no. 051703, Aug. 2026. (<span style="color:#b42318; font-weight:700;">APL</span>)
+
+- H. Jing, Z. Shen, D. Zhao, and **K. Guo**, "CMOS programmable metachip for terahertz multifunctional sensing," Appl. Phys. Lett., vol. 129, Art. no. 051703, Aug. 2026. (<span style="color:#b42318; font-weight:700;">APL</span>)
 
 - **K. Guo**, Z. Qu, Y. Wang, H. Deng, J. Wang, P. Gu, B. J. Chen, C. H. Chan, X. You, and D. Zhao, "A 0.31-THz 4 × 4 CMOS phased-array receiver with ±40°/±44° beam steering in E-/H-planes for wireless communication," IEEE Trans. Terahertz Sci. Technol., vol. 16, no. 8, 2026. (<span style="color:#b42318; font-weight:700;">IEEE T-TST</span>)
 
