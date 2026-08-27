@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郭开喆，东南大学**青年首席教授**、博士生导师、国家青年高层次人才、国家青年高层次人才、江苏省双创团队成员、紫金山学者。目前研究方向为用于6G高速通信和感知的射频CMOS集成电路设计。
+郭开喆，东南大学**青年首席教授**、博士生导师、国家青年高层次人才、国家青年高层次人才、江苏省双创团队成员、紫金学者。目前研究方向为用于6G高速通信和感知的射频CMOS集成电路设计。
 
 2010 年本科毕业于吉林大学物理学院，2013 年硕士毕业于电子科技大学电子工程学院，2020 年博士毕业于比利时鲁汶大学电气工程学院 MICAS 实验室。2021 年至 2023 年，在香港城市大学太赫兹和毫米波国家重点实验室从事博士后研究。2023 年加入东南大学和紫金山实验室。
 
@@ -44,6 +44,8 @@ redirect_from:
 
 # 代表论文
 - H. Deng, H. Yan, Y. Wang, **K. Guo**, and D. Zhao, "A 505–613 GHz radiating source with 65 GHz 3-dB EIRP bandwidth in 65-nm CMOS technology," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 73, no. 8, 2026. (<span style="color:#b42318; font-weight:700;">IEEE TCAS-II</span>)
+- 
+- - H. Jing, Z. Shen, D. Zhao, and **K. Guo**, "CMOS programmable metachip for terahertz multifunctional sensing," Appl. Phys. Lett., vol. 129, Art. no. 051703, Aug. 2026. (<span style="color:#b42318; font-weight:700;">APL</span>)
 
 - **K. Guo**, Z. Qu, Y. Wang, H. Deng, J. Wang, P. Gu, B. J. Chen, C. H. Chan, X. You, and D. Zhao, "A 0.31-THz 4 × 4 CMOS phased-array receiver with ±40°/±44° beam steering in E-/H-planes for wireless communication," IEEE Trans. Terahertz Sci. Technol., vol. 16, no. 8, 2026. (<span style="color:#b42318; font-weight:700;">IEEE T-TST</span>)
 
