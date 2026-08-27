@@ -52,7 +52,7 @@ redirect_from:
 - H. Deng, **K. Guo**, Y. Wang, H. Yan, J. Wang, M. Yang, J. Guo, P. Gu, X. You, and D. Zhao, "A 300-GHz 2-D scalable 4 × 4 phased-array receiver with half-wavelength element spacing in 65-nm CMOS," IEEE J. Solid-State Circuits, pp. 1–13, 2026. (<span style="color:#b42318; font-weight:700;">IEEE JSSC</span>)
 
 - H. Guo, H.-T. Hu, Z. Lin, Z. Guo, X. Xia, **K. Guo**, K. M. Shum, P.-I. Mak, and C. H. Chan, "A 436–472 GHz 4-element IF beamforming phased-array receiver in 65-nm CMOS," IEEE J. Solid-State Circuits, pp. 1–14, 2026. (<span style="color:#b42318; font-weight:700;">IEEE JSSC</span>)
-- 
+
 - **K. Guo** and P. Reynaert, "29.2 A 0.59THz beam-steerable coherent radiator array with 1mW radiated power and 24.1dBm EIRP in 40nm CMOS," Proc. IEEE Int. Solid-State Circuits Conf. (ISSCC), pp. 442-444, Feb. 2020. 
   
 - **K. Guo** and C. H. Chan, "A 0.68-THz receiver with third-order subharmonic mixing in 65-nm CMOS," IEEE J. Solid-State Circuits, vol. 59, no. 8, pp. 2469-2480, Aug. 2024. 
@@ -70,8 +70,6 @@ redirect_from:
 - **K. Guo**, C. H. Chan, and D. Zhao, "Analysis and design of a 0.3-THz signal generator using an oscillator-doubler architecture in 40-nm CMOS," IEEE Trans. Circuits Syst. I: Regular Papers, vol. 69, no. 6, pp. 2284-2296, Jun. 2022. 
 
 - D. Simic, **K. Guo**, and P. Reynaert, "A 420-GHz sub-5-um range resolution TX-RX phase imaging system in 40-nm CMOS technology," IEEE J. Solid-State Circuits, vol. 56, no. 12, pp. 3827-3839, Dec. 2021.
-
-- 
 
 <span class='anchor' id='honors'></span>
 
